@@ -13,8 +13,11 @@ When that finishes
 ```
 yarn install-all
 ```
-When that fiishes
+When that finishes
 ```
 yarn start
-````
-
+```
+or if you want it to run while you work.
+```
+yarn dev
+```
