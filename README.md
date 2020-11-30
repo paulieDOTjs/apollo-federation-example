@@ -21,7 +21,4 @@ When that finishes
 ```
 yarn start:g
 ```
-or if you want it to run while you work.
-```
-yarn dev
-```
+
