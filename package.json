@@ -6,8 +6,8 @@
   "author": "Paul Hendrickson <paul_hendrickson@crgl-thirdparty.com>",
   "scripts": {
     "install-all": "concurrently \"cd first-service && yarn install\"  \"cd second-service && yarn install\"  \"cd gateway && yarn install\"",
-    "start:services": "concurrently \"cd first-service && yarn start\"  \"cd second-service && yarn start\"",
-    "start:gateway": "cd gateway && yarn start",
+    "start:s": "concurrently \"cd first-service && yarn start\"  \"cd second-service && yarn start\"",
+    "start:g": "cd gateway && yarn start",
     "dev": "concurrently \"cd first-service && yarn dev\"  \"cd second-service && yarn dev\"  \"cd gateway && yarn dev\""
   },
   "dependencies": {
