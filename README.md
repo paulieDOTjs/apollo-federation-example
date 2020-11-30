@@ -15,7 +15,11 @@ yarn install-all
 ```
 When that finishes
 ```
-yarn start
+yarn start:services
+```
+When that finishes
+```
+yarn start:gateway
 ```
 or if you want it to run while you work.
 ```
