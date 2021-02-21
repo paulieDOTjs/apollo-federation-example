@@ -1,4 +1,4 @@
-# apollo-federation
+# apollo-federation-template
 
 ## What do?
 
